@@ -1,0 +1,30 @@
+[
+  {
+    "messageID": "1000001",
+    "messageHash": "10:0:HELLO123",
+    "recipient": "+27821234567",
+    "message": "Hello from JSON",
+    "timestamp": "2026-06-14 10:00"
+  },
+  {
+    "messageID": "1000002",
+    "messageHash": "10:0:TEST567",
+    "recipient": "0821234567",
+    "message": "Test message 2",
+    "timestamp": "2026-06-14 10:05"
+  },
+  {
+    "messageID": "1000003",
+    "messageHash": "10:0:WHERETIME.",
+    "recipient": "+27838884567",
+    "message": "Where are you? You are late! I have asked you to be on time.",
+    "timestamp": "2026-06-14 10:10"
+  },
+  {
+    "messageID": "1000004",
+    "messageHash": "10:0:OK,YOU.",
+    "recipient": "+27838884567",
+    "message": "Ok, I am leaving without you.",
+    "timestamp": "2026-06-14 10:15"
+  }
+]
